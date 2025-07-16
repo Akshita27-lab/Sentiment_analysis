@@ -27,7 +27,7 @@ This is an AI-driven **Sentiment Analysis Web Page** with a **modern UI** built 
 ## 🚀 Installation & Setup: 
 ### **1️⃣ Clone the Repository** 
 ```sh
-git clone https://github.com/Akshita27-lab/Sentiment_analysis-webapp.git
+git clone https://github.com/Akshita27-lab/AI_Sentiment_Analysis-webapp.git
 cd sentiment-analysis-webapp
 ```
 
