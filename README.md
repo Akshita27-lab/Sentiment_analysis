@@ -102,13 +102,12 @@ Email: jangidakshita68@gmail.com
 GitHub: [https://github.com/Akshita27-lab] 
 
 ## Screenshots: 
-![Screenshot 2025-03-22 233514](https://github.com/user-attachments/assets/96c20d6b-e57f-468b-9dc2-38e2e7d27ac1)
-![Screenshot 2025-03-22 233723](https://github.com/user-attachments/assets/dce1ffb0-eb0b-49c3-ab66-0edd8315f225)
-![Screenshot 2025-03-22 232552](https://github.com/user-attachments/assets/775f5d02-d066-462a-b1c3-0279bf48bac1)
-![Screenshot 2025-03-22 232655](https://github.com/user-attachments/assets/09683ef2-aab4-41a2-9564-7d719f667d29)
-![Screenshot 2025-03-22 232734](https://github.com/user-attachments/assets/cf2e5b2b-7feb-4bea-84a5-4805b415a972)
+<img width="1918" height="967" alt="Screenshot 2025-03-22 233723" src="https://github.com/user-attachments/assets/91190ce2-60e3-4e37-a566-0ca3a4a7fb6e" />
+<img width="1919" height="968" alt="Screenshot 2025-03-22 232552" src="https://github.com/user-attachments/assets/358270e7-dfe5-4056-96bf-a1971cb26ae8" />
+<img width="1919" height="974" alt="Screenshot 2025-03-22 232734" src="https://github.com/user-attachments/assets/fa9c47a5-e874-46a1-b794-76b886c066f0" />
 
-## Thank You
+
+## Thank You😊
 
 
 
